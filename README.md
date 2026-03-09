@@ -9,13 +9,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📊 GitHub Stats & Trophies
+<h3>📊 GitHub Stats & Trophies</h3>
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-tech-negi&theme=nightowl&radius=10" alt="rohan-tech-negi's Activity Graph" />
 </p>
 
-## 🛠️ Languages & Tools
+<h3>🛠️ Languages & Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+<h3>🔗 Connect with Me</h3>
 
 <p align="center">
   <a href="https://wa.me/919354690290" target="_blank">
